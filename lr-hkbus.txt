@@ -27,6 +27,25 @@ ByRoute
 		K3
 		K4
 		K5
+	CUHK
+		CU_1A
+		CU_1B
+		CU_2
+		CU_3
+		CU_4
+		CU_5
+		CU_6A
+		CU_6B
+		CU_7
+		CU_8
+		CU_A
+		CU_B
+		CU_C
+		CU_D
+		CU_E
+		CU_M1
+		CU_M2
+		CU_M3
 	DB
 		DB00R
 			DB_1
@@ -1073,6 +1092,7 @@ ByRoute
 		170_SHT
 		170_WFC
 		171_NOH
+		171_SOH
 		171P_NOH
 		182_MAF
 		182_YUC
@@ -1160,6 +1180,7 @@ ByRoute
 		981P_WAC
 		982X_WAC
 		985_CRB
+		H1_STF
 		N106_WTS
 		N116_ISP
 		N116_TWC
@@ -1180,6 +1201,8 @@ ByRoute
 		628_TVB
 		634_SHP
 		634_WAT
+		888_OCP
+		888_TSU
 		Citytours
 		J1X_RAC
 		J1X_SHT
@@ -1226,20 +1249,43 @@ ByRoute
 		T1T2
 	Rt_HKI
 		1_FEV
+		1_HVU
+		1_KET
+		1P_HVU
+		1P_WNB
 		2_GRP
 		2_MAF
 		2A_HEC
 		2A_WCF
 		2A_YIT
+		2R_YIT
+		2X_HEC
 		2X_SKW
 		2X_WCF
+		3A_FEV
+		3A_STF
+		3B_POR
+		3B_RUS
 		4_CRC
 		4_WFS
+		4X_EXS
 		4X_WFS
+		5_FEV
+		5_WHR
+		5C_LUR
+		5B_EHR
 		5B_KET
+		5B_YWS
+		5P_WCF
+		5S_CES
+		5S_QES
 		5X_KET
 		5X_WHR
 		6_EXS
+		6_MAHSTV
+		6_STV
+		6A_EXS
+		6A_SFG
 		6X_EXS
 		6X_STV
 		7_HOK
@@ -1248,123 +1294,329 @@ ByRoute
 		8_WCF
 		8H_EHR
 		8H_ISR
+		8P_HEC
 		8P_ISR
+		8P_WCF
+		8R_ISR
+		8S_ISR
 		8X_HVL
 		8X_ISR
 		9_CDASHO
 		9_SHO
+		9_SKW
 		9C_CWC
+		9S_SHO
+		9S_SKW
 		10_KET
 		10_NPF
 		11_CEF
+		11_HEC
 		11_HOK
 		11_JAL
+		11_THD
 		12_CEF
+		12_ROR
+		12A_MAR
+		12A_TAS
 		12M_PAR
+		12M_TAS
 		13_CIH
+		13_KOR
 		14_GRP
+		14_MAH
 		14_SFG
+		14_SFGSTP
+		14_STP
+		15_CEF
+		15_EXS
+		15_PEA
+		15A_PEA
+		15A_SKW
+		15B_CEC
+		15B_PEA
+		15C_CEF
+		15C_GAR
+		15C_KER
 		15R_PEA
+		15S_EXS
+		15S_PEA
+		15X_CEF
+		15X_PEA
+		15X_TIH
+		18_BEB
+		18_HSC
+		18_MAF
+		18_WST
+		18_WWS
 		18P_BEB
+		18P_NPF
+		18P_HSC
 		18X_BEB
+		18X_SKW
 		19_ISR
+		19_NPF
 		19_THR
+		19P_THR
 		23_NPF
 		23_POR
+		23A_LTT
+		23A_ROR
 		25_BRH
+		25_CEF
+		25_CVR
+		25_FHR
+		25_TIH
+		25A_BRH
+		25A_CEC
+		25A_WCF
+		25C_BRH
+		25C_CEC
 		26_HOR
+		26_LTT
+		27_BRH
+		27_NPF
 		30X_CYB
 		30X_EXS
+		33X_THS
 		37A_CEN
 		37A_CFF
+		37B_ADE
 		37B_CFF
+		37X_ADE
+		37X_CFF
+		37R_CFF
+		37S_CFF
 		38_CFF
+		38_NPF
 		38S_CFF
+		40_WCF
 		40_WFN
 		40M_CGO
+		40M_WCF
 		40M_WFN
 		40P_ROR
 		41A_WFC
 		42_NPF
 		42_WFS
 		42C_CYB
+		42C_NPF
+		43A_COG
+		43A_TIW
 		43M_STT
+		43M_TIW
+		43X_ADE
+		43X_HAR
+		43X_WAK
+		46X_HAR
+		46X_TIW
+		47P_NLS
 		48_OCP
 		48_SWA
 		48_WFN
+		61X_EXS
 		63_NPF
 		63_STV
 		65_NPF
 		65_REB
 		65_STV
 		65_VPM
+		66_EXS
+		66_MAH
+		70_ABE
+		70_EXS
 		70_WAK
+		70A_ABE
+		70M_ADE
+		70M_WAK
+		70P_EXS
 		71_NLS
+		71_RUS
 		71_WWS
+		72_MOT
 		72_WAK
+		72A_MOT
 		72A_SWA
+		72S_WAK
 		73_CYB
+		73_STV
+		73_WFN
+		73A_OCP
+		73A_STV
+		73A_WCH
+		73P_CYB
+		73S_ABE
+		73S_CYB
 		73S_OCP
+		73S_STV
+		73S_WFN
+		75_EXS
 		75_SWA
+		76_MOT
+		76_PES
 		76_SPW
+		77_SKW
 		77_TIW
+		77A_TIW
+		77S_SKW
 		77S_TIW
+		77X_THS
 		78_WAK
 		78_WCH
+		78_NLS
 		81_HIW
 		81_LTT
 		81A_HIW
+		81A_LTT
 		81S_BRH
 		82_ISR
 		82_NPF
+		82M_CHW
+		82M_ISR
+		82S_ISR
+		82S_WHS
+		82X_HSC
 		82X_ISR
+		84M_CHW
+		84M_ISR
 		85_BRH
 		85_ISR
+		85_NPF
 		85A_BRH
+		85A_SKW
 		85P_BRH
+		85P_ISR
+		88X_BEB
+		88X_ISR
 		90_ALC
 		90_EXS
 		90B_ADE
 		90B_SOH
+		90C_JAH
 		91_ALC
 		91_CEF
+		91A_ALC
 		91A_WFS
+		92_ALC
+		92_PES
 		93_ROR
 		93A_ROR
 		93C_CAR
+		94_CEF
 		94_LET
 		94A_LET
 		94A_WFC
+		94X_EXS
+		95_ALC
 		95_LNR
+		95_LYS
 		95_SPW
+		95B_NLS
+		95B_MHC
 		95C_ALC
 		95C_CFF
+		95C_MHC
 		96_LET
+		96_MOT
+		96S_LET
+		96S_MOT
+		97_EXS
 		97_LET
+		98_CHR
 		98_LET
 		99_SKW
 		99_SOH
 		99X_THS
-		171_SOH
 		260_EXS
 		260_STV
+		262_EXS
+		262_MAH
+		314_ISR
+		314_STP
+		315_EXS
+		315_PEA
 		347_ADW
+		347_ABE
+		388_CHW
+		388_CWC
+		389_CWC
+		389_SKW
+		511_CEF
+		511_THD
+		529_BRH
+		529_SKW
+		529P_BRH
+		529P_ISR
 		590_EXS
 		590_SOH
+		590A_ADE
+		590A_SOH
+		590S_EXS
+		590S_SOH
 		592_MOT
 		592_SOH
+		592S_MOT
+		592S_SOH
 		595_CHR
 		595_SOH
+		629_ADW
+		629_EXS
 		629_OCP
+		629_STF
+		629A_EXS
+		720_GIS
+		720_GRP
+		720_MAF
+		720A_ADC
+		720A_GRP
+		720P_GIS
+		720P_TAK
+		720X_RUS
 		722_CEF
+		722_YIT
 		780_CEF
 		780_CWE
+		780P_CEF
+		780R_ISR
+		788_ISR
+		788_MAF
+		789_MAF
+		789_ROS
 		FE1_CDF
 		FE1_EXS
+		H1_HUE
+		H1_POR
+		H1_STF
+		H2_HVR
+		H2_PST
+		H2_STF
+		H2A_CEL
+		H2A_CIH
+		M47_HOK
+		M47_WFN
+		M590_EXS
+		M590_SOH
+		M722_NIT
+		M722_HOK
+		N2X_SKW
+		N6X_EXS
+		N6X_STV
+		N8_CFR
 		N8_WCF
+		N8P_HAR
 		N8P_ISR
+		N8X_ISR
+		N8X_KET
 		N8X_MAF
+		N7S_HCS
 		N72_WAK
+		N90_ALC
+		N90_MAF
+		N90_SOH
+		N95C_ALC
+		N95C_CFF
+		X15_PEA
+		X15_STF
+		X15R_PEA
 	Rt_KLN
 		1A_TSF
 		2A_MEF
@@ -1637,6 +1889,7 @@ ByRoute
 		R270_MOR
 		R283_MOR
 	Rt_Other
+		BLUE
 		GREEN
 		RED
 	Training
@@ -1648,30 +1901,165 @@ ByRoute
 		STT
 		WSD
 CMB
+	AD4563
 	CX2
 	CX4
 	CX5
 	CX6
 	CX7
 	CX8
+	HK104
+	SF15
 	VA64
 	VC1
 Ferry
 	CKS
 		Hai Qiao
+	Fortune Ferry
+		Fortune
+		Full River
+		Gao Ming
+		Hey
+		Ming River
+		Ming Way
+		Plenty River
 	Cotai Water Jet
+		Castella Square
+		Cotai Central
+		Cotai Strip CotaiArena
+		Cotai Strip Cotaigold
+		Di Moda Square
+		Marco Polo
+		Gourmet Dining
+		Shoppes Cotai Central
+		Shoppes Four Seasons
 		St. Mark
+		The Cotai Strip Expo
+		The Grand Canal Shoppes
+		The Plaza
+		The Venetian
 	Discovery Bay
+		Discovery Bay 1
+		Discovery Bay 2
+		Discovery Bay 3
 		Discovery Bay 5
+		Discovery Bay 7
+		Discovery Bay 8
+		Discovery Bay 19
+		Discovery Bay 20
 	First Ferry
+		First Ferry III
+		First Ferry V
+		First Ferry VI
+		First Ferry VII
+		First Ferry VIII
+		First Ferry IX
+		First Ferry X
+		First Ferry XI
+		First Ferry XVIII
+		New Ferry II
+		Xin Chao
 		Xin Fa
+		Xin Fei
+		Xin Guang
+		Xin Guo
+		Xin Jie
 		Xin Ying
+		Xin Zhong
 	HKKF
 		Sea Serene
+		Sea Shine
+		Sea Silver
+		Sea Smart
+		Sea Sparkle
+		Sea Speed
+		Sea Spirit
+		Sea Splash
+		Sea Spring
+		Sea Sprint
+		Sea Star
+		Sea Strike
+		Sea Success
+			{Sea Smooth}
+		Sea Summit
+		Sea Superb
+		Sea Superior
+		Sea Supreme
+	Park Island
+		Park Island 3
+		Park Island 5
+		Park Island 7
+		Park Island 8
+	Best Sonic Industrial
+		Sing Way 1
+		Sing Way 6
+		Sing Way 8
+		Sing Way 11
+		Sing Way 12
+		Sing Way 13
+		Sing Way 18
 	Shenzhen Pengxing
 		Peng Xing 18
+	Tsui Wah Ferry Service
+		Fiord 5
+		Fiord 12
+		Fiord 22
+		Kee Ming
+			{Tsui Wah 5}
+		Maris
+		Maris 3
+		Maris 6
+		Maris 8
+		Tsui Wah 1
+		Tsui Wah 2
+		Tsui Wah 3
+		Tsui Wah 8
+		Tsui Wah 10
+		Tsui Wah 18
+		Tsui Wah 28
+		Tsui Wah 32
+		Tsui Wah 38
+		Tsui Wah 203
+		Tsui Wah 213
+		Tsui Wah 233
+		Tsui Wah 268
+		Tsui Wah 323
 	TurboJET
+		Balsa
+		Barca
+		Cacilhas
+		Horta
+		Funchal
+		Guia
+		Lilau
+		Madeira
+		Penha
+		Pico
+		Santa Maria
 		Sao Jorge
+		Urzela
+		Taipa
+		Terceira
+		Universal Mk 2001
+		Universal Mk 2002
+		Universal Mk 2003
+		Universal Mk 2004
+		Universal Mk 2005
+		Universal Mk 2006
+		Universal Mk 2007
+		Universal Mk 2008
+		Universal Mk 2009
+		Universal Mk 2010
+		Universal Mk 2011
+		Universal Mk 2012
+		Universal Mk 2013
+		Universal Mk 2014
+		Universal Mk 2015
+		Universal Mk 2016
+		Universal Mk 2017
+		Universal Mk I
+		Universal Mk III
+		Universal Mk V
 GMB
 	AMS
 		Aberdeen Maxicab Service
