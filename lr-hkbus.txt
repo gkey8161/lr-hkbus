@@ -1066,136 +1066,371 @@ ByRoute
 		S52_AMA
 		S64_YTU
 	Rt_CHT
+		101_CEM
+		101_DVC
 		101_KET
 		101_YMS
+		101R_YMS
+		101X_KET
+		101X_YMS
+		102_BUS
 		102_MEF
 		102_SKW
+		102_VPM
+		102P_MEF
+		102P_SKW
+		102R_MEF
 		103_CHY
+		103_POR
 		103P_YPS
 		104_CEM
+		104_CHT
 		104_KET
+		104_NES
+		104_PAT
+		104_QUE
+		104R_BUS
+		105R_MEF
+		106_ISP
 		106_ISR
 		106_WTS
+		107_ENS
 		107_WAK
+		107P_CYB
+		107P_LAV
+		108_BRH
 		108_KAY
+		108_KST
+		108_PES
 		109_HMT
 		109_MAF
+		110_MOR
+		110_NPF
+		110_SKW
+		111_ADC
 		111_MAF
+		111_PIS
+		111P_MAF
+		111R_YMS
+		112_BUS
 		112_PFR
 		112_SOU
+		112_YWS
 		113_BEB
 		113_CHE
 		115_KCF
+		115_MAF
+		115P_MAF
 		116_ISP
 		116_QUB
+		116_TWC
+		116_YWS
+		117_HVL
+		117_YCS
+		117R_BUS
+		118_BUS
+		118_ISR
 		118_TOS
+		118P_BUS
+		118P_ISR
+		118P_TOS
+		118R_BUS
+		168R_YLW
 		170_SHT
 		170_WFC
+		171_BUS
+		171_LET
 		171_NOH
 		171_SOH
+		171A_NOH
+		171P_BUS
 		171P_NOH
+		171R_BUS
+		178R_LMP
 		182_MAF
 		182_YUC
+		182P_MAF
+		182X_YUC
+		301_SHW
+		302_SHW
+		302A_HSC
+		305_SHW
 		307_CEF
 		307_SHW
 		307_TPC
+		307A_SHW
+		307B_SHW
+		307C_CEC
 		307P_TIH
 		307P_TTR
+		336_SHW
+		373_CEF
+		373_HOK
+		373_SHS
+		373_SHW
+		373A_CEC
+		373A_HAR
+		373A_WAM
+		373A_WCF
 		601_ADE
 		601_POT
 		601P_POT
+		601P_SHW
+		603_ADC
 		603_CEN
 		603_PIT
+		603A_CEM
+		603P_PIT
+		603S_WWS
 		606_CWA
 		606_ISR
 		606A_CWA
+		606A_YIT
+		606P_ISR
+		606X_ENS
+		606X_ISR
 		608_GRP
 		608_KST
 		613_OTW
 		613_SKW
 		619_MAF
 		619_SHL
+		619P_MAF
+		619X_MAF
 		619X_SHL
+		621_HOK
+		621_LAC
+		641_KAC
+		641_KAY
 		641_MAF
 		671_DIH
 		671_LLS
+		673_HOK
 		673_SHS
 		673P_RUS
+		678_EHR
 		678_SHS
 		680_ADE
 		680_LEO
 		680A_ADE
+		680B_ADE
+		680P_ADE
 		680X_MAF
+		680X_WKS
 		681_HOK
+		681_MOS
 		681P_SHW
+		681P_YIO
 		682_CWE
+		682_LEO
 		682_WKS
+		682A_CWE
+		682A_NCH
+		682A_WKS
 		682B_CWE
 		682B_SCO
+		682C_COS
+		682C_ISP
+		682D_CWE
 		682P_CWE
+		682X_CWE
+		682X_NCH
 		690_EXS
 		690_HSG
 		690P_EXS
+		692_EXS
+		692_HHN
 		692P_EXS
 		694_SSW
 		694_TIK
+		698R_ISR
+		698R_WSP
+		802_ISR
+		811_KET
+		904_BEB
+		904_NOH
 		905_NOH
+		905_WCF
+		905A_NOH
+		905P_HAR
+		907B_CEC
+		907C_CEC
+		907C_TPT
 		914_HOL
 		914_TIH
+		914P_TIH
 		914X_TIH
+		930_DIP
 		930_TWW
+		930_WAC
 		930_WCF
+		930A_DIP
+		930A_TWW
+		930A_WCF
 		930X_DIP
+		930X_WCF
 		934_TBG
 		934_WAC
+		934A_ALG
+		934A_WAC
+		935_TLS
 		935_WAC
+		936_STA
+		936_SWK
+		936A_LMS
+		936A_STA
+		948_COE
+		948_CWG
 		948_TIH
+		948A_TIH
+		948B_TIH
 		948P_TIH
 		948X_TIH
 		960_KIS
+		960_WAC
+		960_WCF
+		960A_HSK
 		960B_HSK
+		960C_WCF
 		960P_WCF
+		960S_WCF
+		960X_QUB
 		961_CEC
 		961_SHK
+		961P_CEC
+		962_LUM
+		962_MOT
+		962A_CTD
 		962B_ADW
 		962B_CLY
+		962B_MOT
+		962C_KOP
 		962C_LUM
+		962E_KOP
+		962E_SOK
+		962G_WKR
+		962N_CLY
+		962N_MOT
+		962P_MOT
+		962S_MOT
 		962X_LUM
+		962X_MOT
 		967_ADW
+		967_TYE
+		967S_TYE
+		967X_LEC
+		967X_TYE
 		968_TIH
 		968_YLW
 		968A_TIH
+		968X_QUB
+		968X_TYS
+		968X_YLW
+		969_MOT
 		969_TSC
+		969A_CTD
+		969A_TKR
+		969A_TSC
+		969B_TSC
 		969B_WAC
+		969C_KOP
+		969C_TSB
+		969P_MOT
+		969X_LEC
+		970_BUS
 		970_CYB
 		970_SOU
 		970X_ABE
+		970X_BUS
 		970X_SOU
 		971_HOL
+		971_SPW
+		971R_BUS
+		971R_CYB
 		973_MOR
 		973_STV
+		973P_MOR
 		978_WAM
 		978_WCF
+		978A_WCF
+		978B_WCF
+		980A_WAC
 		980X_WAC
+		980X_WKS
 		981P_WAC
+		981P_YIO
 		982X_WAC
+		982X_YUC
 		985_CRB
+		985_MET
+		985A_CRB
+		985B_CRB
+		H1_PEN
 		H1_STF
+		H1A_PEN
+		H1S_TSE
+		H2_PEN
+		H2_STF
+		H2S_SYS
+		N106_ISP
 		N106_WTS
 		N116_ISP
 		N116_TWC
+		N118_ISR
+		N118_TOS
+		N121_JOV
+		N121_MAF
 		N122_MEF
+		N122_SKW
+		N170_NTP
+		N170_WFC
+		N171_CSP
+		N171_NOH
+		N171_SOH
+		N182_KWY
+		N182_MAF
+		N307_SHW
 		N307_TPC
+		N368_MAF
+		N368_YLW
+		N601_POT
+		N603_PIT
+		N619_MAF
 		N619_SHL
 		N673_SHS
+		N680_KYC
+		N680_MAF
+		N681_MOS
+		N691_MAF
 		N691_TIK
+		N930_DIP
+		N930_MOT
+		N962_LUM
 		N962_MOT
+		N969_MOT
+		N969_TSC
 		R11_DIS
 		R11_NES
 		R11_NPF
+		R108_VPM
+		R307_VPM
+		R603_VPM
+		R673_VPM
 		R678_VPM
+		R680_VPM
+		R930_VPM
+		R934_VPM
+		R936_VPM
+		R948_VPM
+		R960_VPM
+		R961_VPM
+		R962_MOT
+		R968_VPM
+		R969_MOT
 		W1_ADW
+		W1_WEK
 		X962_LUM
+		X970_SOU
 	Rt_CTBnf
 		628_TKO
 		628_TVB
@@ -1272,10 +1507,10 @@ ByRoute
 		4X_WFS
 		5_FEV
 		5_WHR
-		5C_LUR
 		5B_EHR
 		5B_KET
 		5B_YWS
+		5C_LUR
 		5P_WCF
 		5S_CES
 		5S_QES
@@ -1349,8 +1584,8 @@ ByRoute
 		18_WST
 		18_WWS
 		18P_BEB
-		18P_NPF
 		18P_HSC
+		18P_NPF
 		18X_BEB
 		18X_SKW
 		19_ISR
@@ -1382,10 +1617,10 @@ ByRoute
 		37A_CFF
 		37B_ADE
 		37B_CFF
-		37X_ADE
-		37X_CFF
 		37R_CFF
 		37S_CFF
+		37X_ADE
+		37X_CFF
 		38_CFF
 		38_NPF
 		38S_CFF
@@ -1460,9 +1695,9 @@ ByRoute
 		77S_SKW
 		77S_TIW
 		77X_THS
+		78_NLS
 		78_WAK
 		78_WCH
-		78_NLS
 		81_HIW
 		81_LTT
 		81A_HIW
@@ -1510,8 +1745,8 @@ ByRoute
 		95_LNR
 		95_LYS
 		95_SPW
-		95B_NLS
 		95B_MHC
+		95B_NLS
 		95C_ALC
 		95C_CFF
 		95C_MHC
@@ -1534,8 +1769,8 @@ ByRoute
 		314_STP
 		315_EXS
 		315_PEA
-		347_ADW
 		347_ABE
+		347_ADW
 		388_CHW
 		388_CWC
 		389_CWC
@@ -1595,11 +1830,12 @@ ByRoute
 		M47_WFN
 		M590_EXS
 		M590_SOH
-		M722_NIT
 		M722_HOK
+		M722_NIT
 		N2X_SKW
 		N6X_EXS
 		N6X_STV
+		N7S_HCS
 		N8_CFR
 		N8_WCF
 		N8P_HAR
@@ -1607,13 +1843,13 @@ ByRoute
 		N8X_ISR
 		N8X_KET
 		N8X_MAF
-		N7S_HCS
 		N72_WAK
 		N90_ALC
 		N90_MAF
 		N90_SOH
 		N95C_ALC
 		N95C_CFF
+		R592_MOT
 		X15_PEA
 		X15_STF
 		X15R_PEA
@@ -1913,24 +2149,24 @@ CMB
 	VA64
 	VC1
 Ferry
+	Best Sonic Industrial
+		Sing Way 1
+		Sing Way 6
+		Sing Way 8
+		Sing Way 11
+		Sing Way 12
+		Sing Way 13
+		Sing Way 18
 	CKS
 		Hai Qiao
-	Fortune Ferry
-		Fortune
-		Full River
-		Gao Ming
-		Hey
-		Ming River
-		Ming Way
-		Plenty River
 	Cotai Water Jet
 		Castella Square
 		Cotai Central
 		Cotai Strip CotaiArena
 		Cotai Strip Cotaigold
 		Di Moda Square
-		Marco Polo
 		Gourmet Dining
+		Marco Polo
 		Shoppes Cotai Central
 		Shoppes Four Seasons
 		St. Mark
@@ -1949,11 +2185,11 @@ Ferry
 		Discovery Bay 20
 	First Ferry
 		First Ferry III
+		First Ferry IX
 		First Ferry V
 		First Ferry VI
 		First Ferry VII
 		First Ferry VIII
-		First Ferry IX
 		First Ferry X
 		First Ferry XI
 		First Ferry XVIII
@@ -1966,6 +2202,14 @@ Ferry
 		Xin Jie
 		Xin Ying
 		Xin Zhong
+	Fortune Ferry
+		Fortune
+		Full River
+		Gao Ming
+		Hey
+		Ming River
+		Ming Way
+		Plenty River
 	HKKF
 		Sea Serene
 		Sea Shine
@@ -1990,14 +2234,6 @@ Ferry
 		Park Island 5
 		Park Island 7
 		Park Island 8
-	Best Sonic Industrial
-		Sing Way 1
-		Sing Way 6
-		Sing Way 8
-		Sing Way 11
-		Sing Way 12
-		Sing Way 13
-		Sing Way 18
 	Shenzhen Pengxing
 		Peng Xing 18
 	Tsui Wah Ferry Service
@@ -2028,16 +2264,15 @@ Ferry
 		Balsa
 		Barca
 		Cacilhas
-		Horta
 		Funchal
 		Guia
+		Horta
 		Lilau
 		Madeira
 		Penha
 		Pico
 		Santa Maria
 		Sao Jorge
-		Urzela
 		Taipa
 		Terceira
 		Universal Mk 2001
@@ -2060,6 +2295,7 @@ Ferry
 		Universal Mk I
 		Universal Mk III
 		Universal Mk V
+		Urzela
 GMB
 	AMS
 		Aberdeen Maxicab Service
