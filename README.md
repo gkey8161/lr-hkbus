@@ -8,9 +8,10 @@ This keyword list provides an easier way for Hong Kong transport enthusiasts to 
 
 ### Routes
 
-All keywords for routes are stored under the keyword `"ByRoute" `. Types of routes that currently supported are shown below:
+All keywords for routes are stored under the keyword `"ByRoute"`. Types of routes that currently supported are shown below:
 
-* `AEL Shuttle`
+* `AEL_Shuttle`:	Airport Express Complimentary Shuttle Bus
+* `CUHK`:			Bus service in CUHK (not including "light bus", i.e NR834)
 
 ## Incomplete fleet
 
