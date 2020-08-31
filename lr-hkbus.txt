@@ -1956,6 +1956,10 @@ ByRoute
 		96S_MOT
 		97_EXS
 		97_LET
+		97A_ALM
+		97A_LET
+		97A_NLS
+		97A_SWA
 		98_CHR
 		98_LET
 		99_SKW
@@ -3701,6 +3705,7 @@ Ferry
 GMB
 	AMS
 		Aberdeen Maxicab Service
+			FM6777
 			KY6758
 			LB7241
 			LD5580
@@ -3715,14 +3720,22 @@ GMB
 			MD5859
 			MT6977
 			MT7308
+			MU4803
 			MU9322
+			MW6746
 			MX2563
 			MX3667
+			NC3072
 			PX975
+			RV377
 			TN3671
 			UL2440
+			UM9461
+			UN5563
 			VL8392
+			VS4523
 			VW6551
+			WB1342
 			WM217
 		Central Maxicab
 			LP3976
@@ -3816,6 +3829,7 @@ GMB
 		LK8590
 	Honest Profit
 		AW923
+		KX6640
 	Hop Fat Light Bus
 		JY2086
 	Kam Jet
@@ -3830,6 +3844,8 @@ GMB
 	Ma Ah Muk
 		Better Coin Industrial
 			LY1743
+		C & W Mini Bus Service
+			MD3397
 		Crown Score Industries
 			VL2848
 		Express Top Industries
@@ -3918,6 +3934,7 @@ GMB
 		DE2128
 		EW4889
 	Peak Scene
+		ET284
 		RP119
 	Poly Winner Trading
 		KT3551
@@ -3930,10 +3947,12 @@ GMB
 		LW8604
 	Sai Kung PLB
 		AW1618
+		EB4842
 		EC1833
 		EC4579
 		EF6502
 		EF8296
+		ET412
 		EV9663
 		FC4337
 		JX6115
@@ -3980,6 +3999,9 @@ GMB
 		LW3931
 		MA6677
 		MY8108
+	Sun Hop Hing Development
+		FJ4691
+		VN8121
 	Sun Power International Investment
 		GD6101
 	Sure Ascent International Investment
@@ -4011,6 +4033,7 @@ GMB
 		FD7032
 		TG1852
 		UM6760
+		VF8724
 HZMBus
 	VJ2652
 	VR5910
@@ -12176,6 +12199,7 @@ NLB/KCB
 			TP8529
 			TP8680
 			TR350
+		NL6031
 		NS4216
 		PN659
 		RJ8641
@@ -16560,6 +16584,7 @@ RMB
 	VH6345
 	VK7318
 	VK8497
+	VR1736
 	VU9736
 School/NGO
 	Easy-Access Bus
@@ -16591,6 +16616,7 @@ Touring
 	CTS
 		TZ3203
 		UD8225
+		VY5107
 	CZ3362
 	Eternal East Cross-Border Coach Mgt.
 		GY1415
@@ -16638,8 +16664,10 @@ Touring
 		MF1255
 		MP9877
 		RB508
+		RK1425
 		RL2812
 		SJ5342
+		TA3761
 		TG7570
 		TR294
 		TY1117
@@ -16647,6 +16675,9 @@ Touring
 		UD5249
 		UV3034
 		VK2515
+		VN2687
+	Sun Fai Transportation
+		RN3137
 	Sun Kwong Tourist Bus
 		FG732
 	Tung Wing Tat
@@ -16658,6 +16689,7 @@ Touring
 	Wai Kam Tourist Express
 		MR522
 	Wantung Bus
+		SA4509
 		UG5929
 	Yat Fung Motor Bus
 		RM8068
