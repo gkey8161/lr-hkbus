@@ -331,6 +331,7 @@ ByRoute
 		KN_79W
 		KN_80M
 		KN_81K
+		KN_82
 		KN_83A
 		KN_83M
 		KN_86
@@ -1028,6 +1029,7 @@ ByRoute
 		MOKYUL
 		SAKKWT
 		SAKMOK
+		WACTSW
 		Yoho Mall Express
 		YULSHS_17
 		YULSHS_18
@@ -3724,17 +3726,22 @@ GMB
 	AMS
 		Aberdeen Maxicab Service
 			FM6777
+			HE77
+			JA225
+			KX2347
 			KY6758
 			LB7241
 			LD5580
 			LH1200
 			LH8292
 			LJ7081
+			LJ8458
 			LK137
 			LK442
 			LL9204
 			LN1325
 			LN3729
+			LS3480
 			LY4450
 			MC3850
 			MC9763
@@ -3743,16 +3750,23 @@ GMB
 			MT7308
 			MU4803
 			MU9322
+			MW4112
 			MW6746
 			MX2563
 			MX3667
+			MX6074
 			NC3072
 			PX975
 			RV377
+			TN1204
+			TN2496
 			TN3671
 			UL2440
+			UM4149
 			UM9461
 			UN5563
+			US5383
+			UU9958
 			VL8392
 			VS4523
 			VW6551
@@ -3890,6 +3904,9 @@ GMB
 			LZ5676
 			MA9178
 			NB326
+		Koon Wing Motors
+			LT8081
+			MB6209
 		Treasure Up
 			VU8443
 		Yan Yan Ho Motors
@@ -3966,6 +3983,8 @@ GMB
 			HE7772
 			JF9844
 			JH1918
+	Nice Class
+		EP4888
 	Peace Base Investment
 		DE2128
 		EW4889
@@ -4058,6 +4077,7 @@ GMB
 		GA7282
 		GB7877
 		LZ1585
+		NU8493
 		PA4194
 	Wyman Development
 		Yau Man Investment
@@ -11397,6 +11417,8 @@ KMB/LWB
 		WW2752
 		WW2849
 		WW3308
+		WZ7284
+		WZ8551
 	E6T
 		VG7382
 		VG8443
@@ -11534,8 +11556,14 @@ KMB/LWB
 		WW3969
 		WW4016
 		WW4116
-		WW4136
+		WW4139
 		WX7364
+		WY8832
+		WY9038
+		WZ9002
+		WZ9345
+		WZ9472
+		XA406
 	S3BL
 		FP6583
 		FP7359
@@ -11881,6 +11909,8 @@ KMB/LWB
 		WU5717
 		WV2582
 		WV2953
+		WZ8885
+		WZ8918
 	V6X
 		WZ2690
 		WZ2778
@@ -11894,6 +11924,7 @@ KMB/LWB
 		WZ5535
 		WZ5611
 		WZ5724
+		WZ7521
 MTR/KCR/Tram
 	AEL Shuttle
 		RS5190
@@ -16606,6 +16637,7 @@ PITCL
 RMB
 	AX1580
 	BM1526
+	CN850
 	DC1662
 	DC6221
 	DU3730
@@ -16623,21 +16655,27 @@ RMB
 	FS4782
 	HA8060
 	HT7532
+	JH7836
 	JY9711
 	KP2579
 	KP6082
 	KS4165
 	KX8724
 	LD5357
+	LE9372
+	LK7268
 	LL6474
 	LR3278
+	LT5255
 	LX5612
 	LY7328
+	MD8736
 	MK3916
 	ND7840
 	NK3077
 	NM1132
 	PE970
+	PV4399
 	RE9011
 	RR1782
 	TA3165
@@ -16679,6 +16717,8 @@ Touring
 	Argos
 		CTBus
 			HD6660
+			JC8083
+			KA8038
 	BL1663
 	CTS
 		TZ3203
@@ -16695,6 +16735,7 @@ Touring
 		LS6258
 		ND357
 	Great Leader Bus Holdings
+		MG1891
 		VA4587
 	Guangzhou HK Coach Tour Service
 		HA1454
@@ -16704,6 +16745,8 @@ Touring
 			JD9266
 		Stanley Travel
 			TW5170
+	Kam Wai Tourist Bus
+		KB7721
 	KH4115
 	Kien Hwa Travel
 		NK3989
@@ -16716,6 +16759,7 @@ Touring
 		KD3688
 		RM990
 		TD1577
+		UE1193
 	One Bus Hong Kong Macau
 		VS5305
 	Pak Yuet Travel
@@ -16762,6 +16806,8 @@ Touring
 	Wantung Bus
 		SA4509
 		UG5929
+	Wing Kee Travel (Bus)
+		NY6725
 	Yat Fung Motor Bus
 		RM8068
 	ZGHT
