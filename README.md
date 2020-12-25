@@ -75,7 +75,7 @@ This is for upcoming fleets not using "forseeable" naming in the list. Mostly ar
 *Please update README.MD after updating any of the following fleet.*
 
 * KMB
-  * 3AVBML
-  * E6M (up to E6M73 / WW3308)
-  * E6X (up to E6X140 / WZ9002)
-  * V6X (up to V6X13 / WZ7521) 
+  * E6M (up to E6M97 / XB6909)
+  * E6X (up to E6X143 / XA4256)
+  * V6X (up to V6X31 / XB7640) 
+  * V6B (up to V6B163 / XB4925) 
