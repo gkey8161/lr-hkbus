@@ -60,7 +60,7 @@ Most vehicle in this keyword list are represented by registration no., with the 
 * `MTRB` in `MTR/KCR/Tram`
   * Fleet no. is used, with "M#" prefix
 * `Tram` in `MTR/KCR/Tram`
-  * Fleet no. is used, with "#" prefix
+  * Fleet no. is used, with "T#" prefix
 * `NWFB/CTB/CLP`
   * Fleet no. is used, with "#" prefix except DA, LA and VA
   
