@@ -12021,7 +12021,7 @@ MTR/KCR/Tram
 	AEL Shuttle
 		RS5190
 	MTR
-		LRT
+		LRV
 			LR#1085
 			LR#1101
 			LR#1103
@@ -16875,6 +16875,7 @@ Touring
 		RM990
 		TD1577
 		UE1193
+		WM9533
 	One Bus Hong Kong Macau
 		VS5305
 	Pak Yuet Travel
