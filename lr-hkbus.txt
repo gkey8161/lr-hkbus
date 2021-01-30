@@ -1028,6 +1028,7 @@ ByRoute
 		PITMOK
 	RMBNT
 		CABTSW
+		CSETSW
 		KWTLMC
 		KWTTSW_V8
 		MOKYUL
@@ -1148,6 +1149,7 @@ ByRoute
 		E32_KWF
 		E32A_KFS
 		E32A_KWF
+		E32A_TCA
 		E32A_TCF
 		E33_GTC
 		E33_TMC
@@ -2707,6 +2709,7 @@ ByRoute
 		271X_FHE
 		272A_FSR
 		272A_UNI
+		272E_PAA
 		272E_TWO
 		272E_YCS
 		272K_SCP
@@ -3662,6 +3665,7 @@ Ferry
 		Ming Way
 		Plenty River
 	HKKF
+		Flying Fame
 		Sea Serene
 		Sea Shine
 		Sea Silver
@@ -3670,6 +3674,8 @@ Ferry
 		Sea Speed
 		Sea Spirit
 		Sea Splash
+		Sea Splendid
+		Sea Sport
 		Sea Spring
 		Sea Sprint
 		Sea Star
@@ -3816,7 +3822,9 @@ GMB
 			UP8477
 			UU7956
 		Kit Kee Transport
+			LX7680
 			NC8557
+			UN4830
 		Sunning Transportation
 			AMSPT77
 			EU1882
@@ -4020,6 +4028,8 @@ GMB
 			TD8900
 			VF2223
 		FD8683
+		KC Investments
+			NT412
 		Smart Champion Investments
 			HE7772
 			JF9844
@@ -12717,6 +12727,7 @@ NLB/KCB
 		RJ8641
 		RU4020
 		SS4176
+		SY7040
 		TN6530
 		TX1716
 		UF8592
@@ -17064,7 +17075,9 @@ PITCL
 		{JN8949}
 RMB
 	AX1580
+	BD6632
 	BM1526
+	BR2182
 	CN850
 	DC1662
 	DC6221
@@ -17107,6 +17120,7 @@ RMB
 	MT6949
 	ND7840
 	NE2682
+	NG9514
 	NK3077
 	NM1132
 	PE970
@@ -17199,6 +17213,8 @@ Touring
 	Kong Sum Investment
 		KV9311
 	KX2265
+	Long Fai Bus
+		NS2287
 	Lung Wai Tour
 		KD3688
 		RM990
