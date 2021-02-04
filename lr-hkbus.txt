@@ -1611,6 +1611,8 @@ ByRoute
 		N307_TPC
 		N368_MAF
 		N368_YLW
+		N373_LWH
+		N373_MAF
 		N601_POT
 		N603_PIT
 		N619_MAF
@@ -3163,6 +3165,7 @@ ByRoute
 		63X_TIT
 		63X_WCR
 		63X_WEK
+		64K_KSR
 		64K_TPM
 		64K_TWO
 		64K_YLW
@@ -3987,6 +3990,7 @@ GMB
 			UJ5729
 			UL2947
 			VR7531
+			WL6068
 	Main River Transportation
 		VK7685
 	Manhattan Resources
@@ -4018,6 +4022,7 @@ GMB
 		LP9132
 		LZ9195
 		MD5916
+		RU2866
 		SA9948
 		TH3727
 		VC8017
@@ -4140,9 +4145,11 @@ GMB
 	Yan Hing Transportation
 		BD7278
 		FD7032
+		LN4117
 		TG1852
 		UM6760
 		VF8724
+		VJ2162
 HZMBus
 	VJ2652
 	VR5910
@@ -17212,6 +17219,7 @@ School/NGO
 	School Private Light Bus
 		GL9188
 		GU1318
+		PZ1089
 		RK9480
 		VA3123
 		VR2681
@@ -17252,6 +17260,8 @@ Touring
 	Jackson Coach Hire Service
 		Chung Kee Transportation
 			JD9266
+		Rotary Bus Services
+			PP6966
 		Stanley Travel
 			TW5170
 	Kam Wai Tourist Bus
@@ -17272,6 +17282,8 @@ Touring
 		TD1577
 		UE1193
 		WM9533
+	Ming Lam Transportation
+		LD718
 	One Bus Hong Kong Macau
 		VS5305
 	Pak Yuet Travel
@@ -17284,11 +17296,18 @@ Touring
 	Sing Hing Tours
 		JU2989
 	Sun Bus
+		HN2195
+		HN3158
+		KU689
+		KU5428
+		KU6395
 		MF1255
 		MP9877
+		PU4827
 		RB508
 		RK1425
 		RL2812
+		SC6878
 		SJ5342
 		SX5101
 		TA3761
