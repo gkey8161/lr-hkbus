@@ -1726,6 +1726,8 @@ ByRoute
 		3B_POR
 		3B_RUS
 		4_CRC
+		4_EXS
+		4_NLS
 		4_WFS
 		4X_EXS
 		4X_WFS
@@ -1856,6 +1858,7 @@ ByRoute
 		40M_WCF
 		40M_WFN
 		40P_ROR
+		41A_NPF
 		41A_WFC
 		42_NPF
 		42_WFS
@@ -2377,6 +2380,8 @@ ByRoute
 		11_TUC
 		11A_SPI
 		11A_TUC
+		11R_TOF
+		11R_TUC
 		21_NGP
 		21_TAO
 		23_NGP
@@ -3829,6 +3834,7 @@ GMB
 			DC8836
 			HN77
 			LB9758
+			MH5833
 			UC2410
 			UP8477
 			UU7956
@@ -3910,6 +3916,8 @@ GMB
 		LN3891
 		LV6780
 		LW6897
+		LZ8931
+		MA9563
 		VF8935
 		VJ3171
 		VJ6795
@@ -3930,6 +3938,8 @@ GMB
 		DK6269
 		EU3208
 		FJ6366
+		MD8117
+		ME4481
 	Ho King Hoo
 		GT2723
 		VF7089
@@ -3955,6 +3965,7 @@ GMB
 			RC3007
 			VB6956
 			WM4271
+		DY9315
 		ED548
 		VD4300
 		VE5698
@@ -4167,6 +4178,7 @@ GMB
 		RR8147
 		Set Main Development
 			LL4273
+			LW9862
 			LX950
 		SU4670
 	Tsuen Wan Route No.86 PLB
@@ -4178,6 +4190,8 @@ GMB
 		WP5650
 	Win Access Investment
 		VD6029
+	Win Top Services
+		FC386
 	Wing Lee Motor Company
 		UM892
 	Wong Chuk Hang Light Bus Services
@@ -4188,6 +4202,7 @@ GMB
 		NU8493
 		PA4194
 	Wyman Development
+		ET7796
 		Yau Man Investment
 			FN6698
 			MD8722
@@ -4200,6 +4215,13 @@ GMB
 		UM6760
 		VF8724
 		VJ2162
+	Yuen Kay Ming Hung Kei Maxicab
+		DC7510
+		FK8712
+Gov/Utility
+	HAS
+		WM7303
+		WM9766
 HZMBus
 	VJ2652
 	VR5910
@@ -5482,6 +5504,10 @@ KMB/LWB
 		HU2287
 		HU2437
 		JV7629
+	400+
+		MX9771
+	600+
+		ML3941
 	700+
 		MX4719
 		MX5343
@@ -5619,6 +5645,9 @@ KMB/LWB
 		VU3918
 		VU3954
 		VU4023
+	6400+
+		NZ1753
+		PE7245
 	6500+
 		TG8125
 		TH659
@@ -13488,6 +13517,17 @@ NWFB/CTB/CLP
 		#203
 	#3XX-6XX
 		#330-340
+			#330
+			#331
+			#332
+			#333
+			#334
+			#335
+			#336
+			#337
+			#338
+			#339
+			#340
 		#341-395
 			#341
 			#342
@@ -17560,6 +17600,7 @@ RMB
 	BR2182
 	CN850
 	DC1662
+	DC5889
 	DC6221
 	DU3730
 	DX5313
@@ -17573,10 +17614,12 @@ RMB
 	EU2313
 	EU6376
 	EZ9168
+	FG3116
 	FP9400
 	FS1686
 	FS4782
 	FW1333
+	FX8599
 	GF3181
 	GZ8231
 	HA8060
@@ -17587,12 +17630,14 @@ RMB
 	KP6082
 	KS4165
 	KX8724
+	LA8037
 	LD5357
 	LE9372
 	LK7268
 	LL6474
 	LR3278
 	LT5255
+	LU2799
 	LV3705
 	LW6155
 	LX5612
@@ -17608,6 +17653,7 @@ RMB
 	NM1132
 	PE970
 	PF4186
+	PK9481
 	PS8439
 	PV4399
 	RE9011
@@ -17646,6 +17692,7 @@ School/NGO
 	SAHK
 		PR4821
 	School Private Light Bus
+		GF5734
 		GL9188
 		GU1318
 		PZ1089
@@ -17693,6 +17740,7 @@ Touring
 			PP6966
 		Stanley Travel
 			TW5170
+	JZ6212
 	Kam Wai Tourist Bus
 		KB7721
 	KH4115
