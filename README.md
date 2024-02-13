@@ -24,11 +24,11 @@ All keywords for routes are stored under the keyword `"ByRoute"`. Types of route
 * `Hire`: Contract Hire Service
 * `HR`, `KR`, `NR`: Residential Routes in Hong Kong Island, Kowloon and N.T. respectively
   * Due to the enormous number of NR routes, all NR routes are then sub-classified to `NR0xx` to `NR9xx`
-  * All keywords uses the offical route no. (HR, KR and NR) except 61R^, 62R^, 88R^ and 89R^
+  * All keywords uses the offical route no. (HR, KR and NR) ~~except 61R^, 62R^, 88R^ and 89R^~~
 * `LRT`: Light Rail routes
 * `RMBHK`, `RMBKN`, `RMBNT`: Red minibus routes in Hong Kong Island, Kowloon and N.T. respectively
   * All RMB routes are coded as "XXXYYY", with XXX and YYY representing the two destinations by a three-character code. Please refer to *Guides for contribution* for further information.
-* `Rt_AES`^: Airport routes (A-), North Lantau external routes (E-, X-) and North Lantau shuttle routes (S-, X-)
+* `Rt_AES`^: Airport routes (A-), B4-B6 series, North Lantau external routes (E-, X-) and North Lantau shuttle routes (S-, X-)
   * Excluded: "Disneyland Resort" recreation routes (R-)
 * `Rt_CHT`^: Cross-harbour routes (1xx, 3xx, 6xx, 9xx)
 * `Rt_CTBnf`: All CTB non-franchised routes
@@ -36,9 +36,9 @@ All keywords for routes are stored under the keyword `"ByRoute"`. Types of route
 * `Rt_HKI`^: Hong Kong Island routes
 * `Rt_KLN`^: Kowloon routes
 * `Rt_NTE`^: New Territories East routes (7-9, 27-29, 79)
-  * Included: 63R, 64P (2nd gen), 65K (before 2009), All Shatin Racecourse routes except 802/811, All MTR feeder bus in Tai Po
+  * Included: 63R, 64P (2nd gen), 65K (before 2009), All Shatin Racecourse routes except 802/811, All MTR feeder bus in Tai Po, B7-B9 series
 * `Rt_NTW`^: New Territories West routes (3-6, 23-26)
-  * Included: "Disneyland Resort" recreation routes (R-), All MTR Bus routes, B1-B3 series,Y41)
+  * Included: "Disneyland Resort" recreation routes (R-), All MTR Bus routes, B1-B3 series
 * `Rt_Other`: Routes that not categorized
 * `Training`: Training bus
 * `Tram`: Hongkong Tramway, by destination
@@ -54,14 +54,14 @@ Most vehicle in this keyword list are represented by registration no., with the 
 * `CMB`
   * Fleet no. is used
 * `Ferry`
-  * All ferries use the name of the vessel
-* `LRT` in `MTR/KCR/Tram`
+  * Use the name of the vessel
+* `LRT` in `MTR`
   * Fleet no. is used, with "LR#" prefix
-* `MTRB` in `MTR/KCR/Tram`
+* `MTRB` in `MTR`
   * Fleet no. is used, with "M#" prefix
-* `Tram` in `MTR/KCR/Tram`
+* `Tram`
   * Fleet no. is used, with "T#" prefix
-* `NWFB/CTB/CLP`
+* `CTB`, `NWFB` & `CLP` in `Utility`
   * Fleet no. is used, with "#" prefix except DA, LA and VA
   
 ## Guides for Contribution
