@@ -1,5 +1,7 @@
 # lr-hkbus
 
+:warning: lr-hkbus is under heavy re-construction, please refer to the `r2024` branch for more details.
+
 lr-hkbus is a Lightroom Classic keyword list for categorizing Hong Kong transport images.
 
 This keyword list provides an easier way for Hong Kong transport enthusiasts to categorize their images in Adobe Lightroom, supporting franchised bus, non-franchised bus/coach, green/red public minibus and more.
