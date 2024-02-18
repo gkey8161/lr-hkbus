@@ -73,7 +73,7 @@
 		DB06R
 		DB08R
 		DBGC Shuttle Bus
-	GMBHK
+	[GMBHK]
 		HK_1
 		HK_1A
 		HK_2
@@ -187,7 +187,7 @@
 		HK_N40
 		HK_N51
 		HK_N51S
-	GMBKN
+	[GMBKN]
 		KN_2
 		KN_2A
 		KN_3
@@ -325,7 +325,7 @@
 		KN_89C
 		KN_90A
 		KN_90B
-	GMBNT
+	[GMBNT]
 		NT_1
 		NT_1A
 		NT_1S
@@ -637,8 +637,8 @@
 		NT_813A
 		NT_814
 		NT_901
-	Hire
-	HR
+	[Hire]
+	[HR]
 		HR36
 		HR42
 		HR44
@@ -687,7 +687,7 @@
 		HR92
 		HR93
 		HR94
-	KR
+	[KR]
 		KR11
 		KR12
 		KR13
@@ -707,11 +707,11 @@
 		KR54
 		KR55
 		KR56
-	LRT
+	[LRT]
 		505_SAS
 		507_TNK
 		610_YLL
-	NR
+	[NR]
 		NR0xx
 			NR04
 			NR05
@@ -828,47 +828,10 @@
 			NR533
 			NR534
 			NR535
-		NR6xx8xx
-			61R_COS
-			61R_LAT
-			62R_COS
-			62R_KOT
-			88R_COS
-			88R_MKS
-			89R_COS
-			89R_WAC
+		NR6xx
+			NR61
+			NR62
 			NR69
-			NR83
-			NR84
-			NR86
-			NR87
-			NR801
-			NR805
-			NR806
-			NR809
-			NR810
-			NR811
-			NR812
-			NR813
-			NR815
-			NR817
-			NR818
-			NR819
-			NR820
-			NR822
-			NR823
-			NR824
-			NR826
-			NR829
-			NR831
-			NR832
-			NR833
-			NR834
-			NR835
-			NR837
-			NR838
-			NR839
-			NR840
 		NR7xx
 			NR74
 			NR75
@@ -934,6 +897,40 @@
 			NR769
 			NR770
 			NR771
+		NR8xx
+			NR83
+			NR84
+			NR86
+			NR87
+			NR88
+			NR89
+			NR801
+			NR805
+			NR806
+			NR809
+			NR810
+			NR811
+			NR812
+			NR813
+			NR815
+			NR817
+			NR818
+			NR819
+			NR820
+			NR822
+			NR823
+			NR824
+			NR826
+			NR829
+			NR831
+			NR832
+			NR833
+			NR834
+			NR835
+			NR837
+			NR838
+			NR839
+			NR840
 		NR9xx
 			NR91
 			NR92
@@ -988,11 +985,11 @@
 			NR971
 			NR972
 			NR974
-	RMBHK
+	[RMBHK]
 		ABECEN
 		ABEWAF
 		SKWCHW
-	RMBKN
+	[RMBKN]
 		ABEMOK
 		ENSMOK
 		Grand Waterfront Plaza Shuttle Bus
@@ -1009,7 +1006,7 @@
 		MOKYAT
 		PITJOR
 		PITMOK
-	RMBNT
+	[RMBNT]
 		CABTSW
 		CSETSW
 		KETTSW
@@ -1023,7 +1020,7 @@
 		YULSHS_17
 		YULSHS_18
 		YULTAI
-	Rt_AES
+	[Rt_AES]
 		A10_GTC
 		A10_LLS
 		A11_GTC
@@ -1261,7 +1258,7 @@
 		X47_FHE
 		X52_GFS
 		X52_TUC
-	Rt_CHT
+	[Rt_CHT]
 		101_CEM
 		101_DVC
 		101_KET
@@ -1636,7 +1633,7 @@
 		X962_LUM
 		X970_KTS
 		X970_SOU
-	Rt_CTBnf
+	[Rt_CTBnf]
 		628_TKO
 		628_TVB
 		634_SHP
@@ -1687,7 +1684,7 @@
 		SP9_SCP
 		SP9_SHS
 		T1T2
-	Rt_HKI
+	[Rt_HKI]
 		1_FEV
 		1_HVU
 		1_KET
@@ -2071,7 +2068,7 @@
 		X15_PEA
 		X15_STF
 		X15R_PEA
-	Rt_KLN
+	[Rt_KLN]
 		1_CHY
 		1_TSF
 		1A_SMC
@@ -2343,7 +2340,7 @@
 		W2_WEK
 		X215_KOW
 		X215_KWT
-	Rt_LAN
+	[Rt_LAN]
 		1_MUW
 		1_TAO
 		1R_NGP
@@ -2404,7 +2401,7 @@
 		N37_YTE
 		N38_TUC
 		N38_YTU
-	Rt_NTE
+	[Rt_NTE]
 		63R_LTW
 		63R_TPM
 		64P_KFA
@@ -2946,7 +2943,7 @@
 		X90_HNH
 		X797_PSK
 		X797_TIK
-	Rt_NTW
+	[Rt_NTW]
 		30_ALG
 		30_CSP
 		30X_ALG
@@ -3454,12 +3451,12 @@
 		X42P_LAT
 		Y41_PAI
 		Y41_TSY
-	Rt_Other
+	[Rt_Other]
 		BLUE
 		GREEN
 		RED
-	Training
-	Tram
+	[Training]
+	[Tram]
 		KET
 		NOP
 		SHW
@@ -13918,6 +13915,7 @@ KMB
 		{BYD}
 		{K9A}
 		RV8143
+	BED
 	E5L
 		{Alexander Dennis}
 		{Coach}
@@ -18192,6 +18190,7 @@ Touring
 		JW2401
 		SF7162
 Tram
+	Reverse
 	T#1
 	T#2
 	T#3
@@ -18365,7 +18364,6 @@ Tram
 	T#200
 	T#300
 	T#400
-	Tram_Reverse
 [Utility]
 	CLP
 		{China Light & Power}
