@@ -66,7 +66,7 @@ Most vehicle in this keyword list are represented by registration no., with the 
   
 ### Synonyms
 
-For fleets, use synonyms to include manufacturer, chassis and bodybuilder tags, unless there are more than one body / chassis under the same fleet, in which child tags will be used.
+For fleets, use synonyms to include manufacturer, chassis and bodybuilder tags, unless there are more than one body/chassis under the same fleet, in which child tags will be used.
   
 ## Guides for Contribution
 
