@@ -64,6 +64,10 @@ Most vehicle in this keyword list are represented by registration no., with the 
 * `CTB`, `NWFB` & `CLP` in `Utility`
   * Fleet no. is used, with "#" prefix except DA, LA and VA
   
+### Synonyms
+
+For fleets, use synonyms to include manufacturer, chassis and bodybuilder tags, unless there are more than one body / chassis under the same fleet, in which child tags will be used.
+  
 ## Guides for Contribution
 
 (TBC)
@@ -75,7 +79,11 @@ This is for upcoming fleets not using "forseeable" naming in the list. Mostly ar
 *Please update README.MD after updating any of the following fleet.*
 
 * KMB
-  * E6M (up to E6M97 / XB6909)
-  * E6X (up to E6X143 / XA4256)
-  * V6X (up to V6X31 / XB7640) 
-  * V6B (up to V6B163 / XB4925) 
+  * BED (up to BEB16 / ZB8241^) 
+  * E6M (up to E6M151 / YV1613)
+  * E6X (up to E6X296 / YN3267)
+  * UE6X (up to UE6X81 / YL1822^) 
+  * UV6X (up to UV6X75 / YU8363) 
+  * V6PX (up to V6PX1 / YL2280) 
+  * V6X (up to V6PX183 / YW3407)
+  
