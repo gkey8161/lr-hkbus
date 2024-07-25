@@ -1,6 +1,6 @@
 # lr-hkbus
 
-| :warning: lr-hkbus is under heavy re-construction, please refer to the `r2024` branch for more details. |
+| :warning: Re-construction for lr-hkbus is complete and merged to master. Refer to the `r2024` branch for more details. |
 | --- |
 
 lr-hkbus is a Lightroom Classic keyword list for categorizing Hong Kong transport images.
