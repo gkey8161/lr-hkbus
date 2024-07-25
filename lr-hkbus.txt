@@ -6269,14 +6269,19 @@ CTB
 			#8353
 				{#51242}
 			#8354
-				{#51243}
+				{#59903}
 			#8355
-				{#51244}
+				{#59904}
 			#8356
+				{#59905}
 			#8357
+				{#59906}
 			#8358
+				{#59907}
 			#8359
+				{#59908}
 			#8360
+				{#59909}
 			#8361
 				{#5720}
 				{#51327}
@@ -8467,10 +8472,6 @@ CTB
 				{#8352}
 			#51242
 				{#8353}
-			#51243
-				{#8354}
-			#51244
-				{#8355}
 			#51245
 				{#8391}
 			#51246
@@ -10657,6 +10658,7 @@ CTB
 			{ADL}
 			{Enviro500}
 		Rickshaw Sightseeing Bus
+			{HKCitySightseeing}
 			#59900
 				{#5550}
 				{Alexander Dennis}
@@ -10672,6 +10674,20 @@ CTB
 				{Alexander Dennis}
 				{ADL}
 				{Enviro500}
+			#59903
+				{#8354}
+			#59904
+				{#8355}
+			#59905
+				{#8356}
+			#59906
+				{#8357}
+			#59907
+				{#8358}
+			#59908
+				{#8359}
+			#59909
+				{#8360}
 DBTSL
 	{Discovery Bay Transport Service Limited}
 	{Discovery Bay Transport}
@@ -11029,6 +11045,7 @@ GMB
 			MV3304
 			UM7558
 			UV8254
+			WL2871
 		Superlong
 			HX7259
 			LG3097
@@ -11078,6 +11095,8 @@ GMB
 	Choi Lung Maxicab PLB
 		EB884
 	City Joy Investment
+		GU8802
+		SS3217
 		VC341
 	Constant Rich Trading
 		LN4565
@@ -11093,8 +11112,10 @@ GMB
 		KL2032
 		LM817
 		LN3891
+		LV5763
 		LV6780
 		LW6897
+		LZ2119
 		LZ8931
 		MA9563
 		VF8935
@@ -11130,6 +11151,8 @@ GMB
 		AW923
 		KX6640
 		MB4379
+	Hop Cheong PLB
+		TG8158
 	Hop Fat Light Bus
 		HZ291
 		JY2086
@@ -11199,12 +11222,16 @@ GMB
 			LT6521
 			LT7055
 			LW503
+			LW1837
 			LW6103
 			LZ3666
+			LZ7269
 			MA4819
 			MA5390
 			MA6166
+			MA7602
 			MB4989
+			MD754
 			TX6378
 			UA4252
 			UB6977
@@ -11218,7 +11245,13 @@ GMB
 			UJ5729
 			UL2947
 			VR7531
+			WD9672
+			WE5495
+			WF2829
+			WL4069
 			WL6068
+			WL9609
+			WU8691
 	Main River Transportation
 		VK7685
 	Manhattan Resources
@@ -11275,6 +11308,7 @@ GMB
 			TZ4313
 	Nice Class
 		EP4888
+		NM4558
 	Peace Base Investment
 		DE2128
 		EW4889
@@ -11301,8 +11335,10 @@ GMB
 		ET412
 		EV9663
 		FC4337
+		FC6367
 		JX6115
 		JY3863
+		LD448
 		LG8013
 		MB2982
 		VL7508
@@ -11321,7 +11357,10 @@ GMB
 		TW9615
 		VH4569
 		VH5469
+		VH7747
 		VH8362
+		VN2711
+		VU836
 	Shine Bright Services
 		TB4193
 		VE8266
@@ -23532,10 +23571,12 @@ PITCL
 		PM6822
 		PS3301
 RMB
+	AR3712
 	AW7168
 	AX1580
 	BD6632
 	BM1526
+	BN8768
 	BR2182
 	CN850
 	DC1662
@@ -23543,6 +23584,7 @@ RMB
 	DC6221
 	DU3730
 	DX5313
+	DZ2303
 	ED7933
 	EE7020
 	EF1976
@@ -23562,6 +23604,7 @@ RMB
 	GF3181
 	GZ8231
 	HA8060
+	HC14
 	HT7532
 	JH7836
 	JY9711
@@ -23615,6 +23658,7 @@ RMB
 	VK8497
 	VR1736
 	VU9736
+	WC7180
 School/NGO
 	Easy-Access Bus
 		RV5810
@@ -23667,6 +23711,8 @@ Touring
 		SH5818
 		SH6230
 	BL1663
+	Concord Bus
+		UH6369
 	Crystal Bus
 		GC8888
 		GE8888
@@ -23707,6 +23753,7 @@ Touring
 		SW5658
 	Kong Sum Investment
 		KV9311
+	KS7771
 	Kwoon Chung Motors
 		{KCB}
 		BP991
@@ -23752,6 +23799,7 @@ Touring
 		ND9002
 		NL6031
 		NS4216
+		PL4978
 		PN659
 		PU9179
 		RJ8641
@@ -23789,6 +23837,7 @@ Touring
 		NS2287
 	Lung Wai Tour
 		KD3688
+		MK6533
 		RM990
 		TD1577
 		UE1193
@@ -23819,6 +23868,7 @@ Touring
 		RB508
 		RK1425
 		RL2812
+		SA867
 		SC6878
 		SJ5342
 		SX5101
@@ -23844,6 +23894,7 @@ Touring
 	Teh Foong (HK) Bus
 		UN910
 	Tung Wing Tat
+		ET8588
 		JK2541
 	UE4988
 	US6200

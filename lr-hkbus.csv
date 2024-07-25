@@ -6270,14 +6270,19 @@ Y,Y,Y,N,			#8352
 Y,Y,Y,N,			#8353
 ,,,,				{#51242}
 Y,Y,Y,N,			#8354
-,,,,				{#51243}
+,,,,				{#59903}
 Y,Y,Y,N,			#8355
-,,,,				{#51244}
+,,,,				{#59904}
 Y,Y,Y,N,			#8356
+,,,,				{#59905}
 Y,Y,Y,N,			#8357
+,,,,				{#59906}
 Y,Y,Y,N,			#8358
+,,,,				{#59907}
 Y,Y,Y,N,			#8359
+,,,,				{#59908}
 Y,Y,Y,N,			#8360
+,,,,				{#59909}
 Y,Y,Y,N,			#8361
 ,,,,				{#5720}
 ,,,,				{#51327}
@@ -8468,10 +8473,6 @@ Y,Y,Y,N,			#51241
 ,,,,				{#8352}
 Y,Y,Y,N,			#51242
 ,,,,				{#8353}
-Y,Y,Y,N,			#51243
-,,,,				{#8354}
-Y,Y,Y,N,			#51244
-,,,,				{#8355}
 Y,Y,Y,N,			#51245
 ,,,,				{#8391}
 Y,Y,Y,N,			#51246
@@ -10658,6 +10659,7 @@ Y,Y,Y,N,		#50901
 ,,,,			{ADL}
 ,,,,			{Enviro500}
 Y,Y,Y,N,		Rickshaw Sightseeing Bus
+,,,,			{HKCitySightseeing}
 Y,Y,Y,N,			#59900
 ,,,,				{#5550}
 ,,,,				{Alexander Dennis}
@@ -10673,6 +10675,20 @@ Y,Y,Y,N,			#59902
 ,,,,				{Alexander Dennis}
 ,,,,				{ADL}
 ,,,,				{Enviro500}
+Y,Y,Y,N,			#59903
+,,,,				{#8354}
+Y,Y,Y,N,			#59904
+,,,,				{#8355}
+Y,Y,Y,N,			#59905
+,,,,				{#8356}
+Y,Y,Y,N,			#59906
+,,,,				{#8357}
+Y,Y,Y,N,			#59907
+,,,,				{#8358}
+Y,Y,Y,N,			#59908
+,,,,				{#8359}
+Y,Y,Y,N,			#59909
+,,,,				{#8360}
 Y,Y,Y,N,DBTSL
 ,,,,	{Discovery Bay Transport Service Limited}
 ,,,,	{Discovery Bay Transport}
@@ -11030,6 +11046,7 @@ Y,Y,Y,N,			LL7862
 Y,Y,Y,N,			MV3304
 Y,Y,Y,N,			UM7558
 Y,Y,Y,N,			UV8254
+Y,Y,Y,N,			WL2871
 Y,Y,Y,N,		Superlong
 Y,Y,Y,N,			HX7259
 Y,Y,Y,N,			LG3097
@@ -11079,6 +11096,8 @@ Y,Y,Y,N,		Choi Kee (Yuen Long) Maxicab Route PLB
 Y,Y,Y,N,	Choi Lung Maxicab PLB
 Y,Y,Y,N,		EB884
 Y,Y,Y,N,	City Joy Investment
+Y,Y,Y,N,		GU8802
+Y,Y,Y,N,		SS3217
 Y,Y,Y,N,		VC341
 Y,Y,Y,N,	Constant Rich Trading
 Y,Y,Y,N,		LN4565
@@ -11094,8 +11113,10 @@ Y,Y,Y,N,		JY933
 Y,Y,Y,N,		KL2032
 Y,Y,Y,N,		LM817
 Y,Y,Y,N,		LN3891
+Y,Y,Y,N,		LV5763
 Y,Y,Y,N,		LV6780
 Y,Y,Y,N,		LW6897
+Y,Y,Y,N,		LZ2119
 Y,Y,Y,N,		LZ8931
 Y,Y,Y,N,		MA9563
 Y,Y,Y,N,		VF8935
@@ -11131,6 +11152,8 @@ Y,Y,Y,N,	Honest Profit
 Y,Y,Y,N,		AW923
 Y,Y,Y,N,		KX6640
 Y,Y,Y,N,		MB4379
+Y,Y,Y,N,	Hop Cheong PLB
+Y,Y,Y,N,		TG8158
 Y,Y,Y,N,	Hop Fat Light Bus
 Y,Y,Y,N,		HZ291
 Y,Y,Y,N,		JY2086
@@ -11200,12 +11223,16 @@ Y,Y,Y,N,			LT6147
 Y,Y,Y,N,			LT6521
 Y,Y,Y,N,			LT7055
 Y,Y,Y,N,			LW503
+Y,Y,Y,N,			LW1837
 Y,Y,Y,N,			LW6103
 Y,Y,Y,N,			LZ3666
+Y,Y,Y,N,			LZ7269
 Y,Y,Y,N,			MA4819
 Y,Y,Y,N,			MA5390
 Y,Y,Y,N,			MA6166
+Y,Y,Y,N,			MA7602
 Y,Y,Y,N,			MB4989
+Y,Y,Y,N,			MD754
 Y,Y,Y,N,			TX6378
 Y,Y,Y,N,			UA4252
 Y,Y,Y,N,			UB6977
@@ -11219,7 +11246,13 @@ Y,Y,Y,N,			UH4516
 Y,Y,Y,N,			UJ5729
 Y,Y,Y,N,			UL2947
 Y,Y,Y,N,			VR7531
+Y,Y,Y,N,			WD9672
+Y,Y,Y,N,			WE5495
+Y,Y,Y,N,			WF2829
+Y,Y,Y,N,			WL4069
 Y,Y,Y,N,			WL6068
+Y,Y,Y,N,			WL9609
+Y,Y,Y,N,			WU8691
 Y,Y,Y,N,	Main River Transportation
 Y,Y,Y,N,		VK7685
 Y,Y,Y,N,	Manhattan Resources
@@ -11276,6 +11309,7 @@ Y,Y,Y,N,			JH1918
 Y,Y,Y,N,			TZ4313
 Y,Y,Y,N,	Nice Class
 Y,Y,Y,N,		EP4888
+Y,Y,Y,N,		NM4558
 Y,Y,Y,N,	Peace Base Investment
 Y,Y,Y,N,		DE2128
 Y,Y,Y,N,		EW4889
@@ -11302,8 +11336,10 @@ Y,Y,Y,N,		EL967
 Y,Y,Y,N,		ET412
 Y,Y,Y,N,		EV9663
 Y,Y,Y,N,		FC4337
+Y,Y,Y,N,		FC6367
 Y,Y,Y,N,		JX6115
 Y,Y,Y,N,		JY3863
+Y,Y,Y,N,		LD448
 Y,Y,Y,N,		LG8013
 Y,Y,Y,N,		MB2982
 Y,Y,Y,N,		VL7508
@@ -11322,7 +11358,10 @@ Y,Y,Y,N,		TN5580
 Y,Y,Y,N,		TW9615
 Y,Y,Y,N,		VH4569
 Y,Y,Y,N,		VH5469
+Y,Y,Y,N,		VH7747
 Y,Y,Y,N,		VH8362
+Y,Y,Y,N,		VN2711
+Y,Y,Y,N,		VU836
 Y,Y,Y,N,	Shine Bright Services
 Y,Y,Y,N,		TB4193
 Y,Y,Y,N,		VE8266
@@ -23533,10 +23572,12 @@ Y,Y,Y,N,		MZ7102
 Y,Y,Y,N,		PM6822
 Y,Y,Y,N,		PS3301
 Y,Y,Y,N,RMB
+Y,Y,Y,N,	AR3712
 Y,Y,Y,N,	AW7168
 Y,Y,Y,N,	AX1580
 Y,Y,Y,N,	BD6632
 Y,Y,Y,N,	BM1526
+Y,Y,Y,N,	BN8768
 Y,Y,Y,N,	BR2182
 Y,Y,Y,N,	CN850
 Y,Y,Y,N,	DC1662
@@ -23544,6 +23585,7 @@ Y,Y,Y,N,	DC5889
 Y,Y,Y,N,	DC6221
 Y,Y,Y,N,	DU3730
 Y,Y,Y,N,	DX5313
+Y,Y,Y,N,	DZ2303
 Y,Y,Y,N,	ED7933
 Y,Y,Y,N,	EE7020
 Y,Y,Y,N,	EF1976
@@ -23563,6 +23605,7 @@ Y,Y,Y,N,	FX8599
 Y,Y,Y,N,	GF3181
 Y,Y,Y,N,	GZ8231
 Y,Y,Y,N,	HA8060
+Y,Y,Y,N,	HC14
 Y,Y,Y,N,	HT7532
 Y,Y,Y,N,	JH7836
 Y,Y,Y,N,	JY9711
@@ -23616,6 +23659,7 @@ Y,Y,Y,N,	VK7318
 Y,Y,Y,N,	VK8497
 Y,Y,Y,N,	VR1736
 Y,Y,Y,N,	VU9736
+Y,Y,Y,N,	WC7180
 Y,Y,Y,N,School/NGO
 Y,Y,Y,N,	Easy-Access Bus
 Y,Y,Y,N,		RV5810
@@ -23668,6 +23712,8 @@ Y,Y,Y,N,		SH5386
 Y,Y,Y,N,		SH5818
 Y,Y,Y,N,		SH6230
 Y,Y,Y,N,	BL1663
+Y,Y,Y,N,	Concord Bus
+Y,Y,Y,N,		UH6369
 Y,Y,Y,N,	Crystal Bus
 Y,Y,Y,N,		GC8888
 Y,Y,Y,N,		GE8888
@@ -23708,6 +23754,7 @@ Y,Y,Y,N,	Kinson Transportation
 Y,Y,Y,N,		SW5658
 Y,Y,Y,N,	Kong Sum Investment
 Y,Y,Y,N,		KV9311
+Y,Y,Y,N,	KS7771
 Y,Y,Y,N,	Kwoon Chung Motors
 ,,,,		{KCB}
 Y,Y,Y,N,		BP991
@@ -23753,6 +23800,7 @@ Y,Y,Y,N,			TR350
 Y,Y,Y,N,		ND9002
 Y,Y,Y,N,		NL6031
 Y,Y,Y,N,		NS4216
+Y,Y,Y,N,		PL4978
 Y,Y,Y,N,		PN659
 Y,Y,Y,N,		PU9179
 Y,Y,Y,N,		RJ8641
@@ -23790,6 +23838,7 @@ Y,Y,Y,N,	Long Fai Bus
 Y,Y,Y,N,		NS2287
 Y,Y,Y,N,	Lung Wai Tour
 Y,Y,Y,N,		KD3688
+Y,Y,Y,N,		MK6533
 Y,Y,Y,N,		RM990
 Y,Y,Y,N,		TD1577
 Y,Y,Y,N,		UE1193
@@ -23820,6 +23869,7 @@ Y,Y,Y,N,		PU4827
 Y,Y,Y,N,		RB508
 Y,Y,Y,N,		RK1425
 Y,Y,Y,N,		RL2812
+Y,Y,Y,N,		SA867
 Y,Y,Y,N,		SC6878
 Y,Y,Y,N,		SJ5342
 Y,Y,Y,N,		SX5101
@@ -23845,6 +23895,7 @@ Y,Y,Y,N,		FG732
 Y,Y,Y,N,	Teh Foong (HK) Bus
 Y,Y,Y,N,		UN910
 Y,Y,Y,N,	Tung Wing Tat
+Y,Y,Y,N,		ET8588
 Y,Y,Y,N,		JK2541
 Y,Y,Y,N,	UE4988
 Y,Y,Y,N,	US6200
